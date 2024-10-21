@@ -1,4 +1,8 @@
-# vCard - Personal portfolio
+Personal portfolio
+
+This portfolio is not originally mine, I just fork it and modify it, and I will not use it for any business or anything that will earn me money, I will only use this for a school activity.
+
+All the credits goes to Richard Hanrick or codewithsadee Sadee. Thank you
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
 ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
